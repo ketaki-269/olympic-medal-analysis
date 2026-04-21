@@ -1,0 +1,51 @@
+{
+	"name": "AzureSqlTable4",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "id",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "Rank",
+				"type": "varchar"
+			},
+			{
+				"name": "TeamCountry",
+				"type": "varchar"
+			},
+			{
+				"name": "Gold",
+				"type": "varchar"
+			},
+			{
+				"name": "Silver",
+				"type": "varchar"
+			},
+			{
+				"name": "Bronze",
+				"type": "varchar"
+			},
+			{
+				"name": "Total",
+				"type": "varchar"
+			},
+			{
+				"name": "Rank by Total",
+				"type": "varchar"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "Medals"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

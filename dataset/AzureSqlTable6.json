@@ -1,0 +1,39 @@
+{
+	"name": "AzureSqlTable6",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "id",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "Discipline",
+				"type": "varchar"
+			},
+			{
+				"name": "Female",
+				"type": "varchar"
+			},
+			{
+				"name": "Male",
+				"type": "varchar"
+			},
+			{
+				"name": "Total",
+				"type": "varchar"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "EntriesGender"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

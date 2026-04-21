@@ -1,0 +1,9 @@
+{
+	"name": "oly-datafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "540d8e67-30ed-4650-9e92-ea73fb2baad8",
+		"tenantId": "fe04a0da-637c-475b-9e7b-a4d326a22010"
+	}
+}
