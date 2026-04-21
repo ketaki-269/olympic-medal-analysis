@@ -1,0 +1,32 @@
+"Discipline","sum(Gold)","sum(Silver)","sum(Bronze)"
+"Boxing",1698,1848,2700
+"Marathon Swimming",5040,7056,5796
+"Rowing",1734,1806,3366
+"Judo",15876,8232,9996
+"Baseball/Softball",234,246,198
+"Sailing",\N,\N,\N
+"Swimming",1680,1680,3360
+"Basketball",1722,3528,3192
+"Handball",3384,4044,4212
+"Rhythmic Gymnastics",1428,588,1848
+"Karate",18,12,12
+"Triathlon",\N,\N,\N
+"Badminton",378,1008,756
+"Athletics",13950,10272,15540
+"Beach Volleyball",\N,\N,\N
+"Shooting",\N,\N,\N
+"Diving",588,504,924
+"Canoe Slalom",7938,4116,4998
+"Artistic Gymnastics",5436,8064,6564
+"Cycling Road",24,12,12
+"Wrestling",54,0,36
+"Table Tennis",84,168,336
+"Taekwondo",588,504,672
+"Water Polo",7938,4116,4998
+"Weightlifting",\N,\N,\N
+"Trampoline Gymnastics",\N,\N,\N
+"Archery",\N,\N,\N
+"Artistic Swimming",\N,\N,\N
+"Fencing",18,12,12
+"Hockey",\N,\N,\N
+"Football",\N,\N,\N
